@@ -1,5 +1,5 @@
 ---
-title: LlamaIndex: RAG 구현을 위한 강력한 도구
+title: LlamaIndex - RAG 구현을 위한 강력한 도구
 date: 2024-07-23 17:11:00 +0900
 categories: [AI, LLM]
 tags: [llama-index, rag설계, ai문서분석, llm활용, gpt활용,langchain, nlp]
