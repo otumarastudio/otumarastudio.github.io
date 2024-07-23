@@ -1,11 +1,11 @@
 ---
-title: Welcome to My LLM Tech Blog
+title: Welcome to My Tech Blog
 date: 2024-07-23 12:00:00 +0900
-categories: [Introduction, AI]
-tags: [welcome, llm, ai]
+categories: [Blogging, Tutorial]
+tags: [welcome, llm, ai, githubblog]
 ---
 
-# Welcome to My LLM Tech Blog
+어서오십시오.
 
 Hello and welcome to my new blog focused on Large Language Models (LLMs) and AI technology. I'm excited to start this journey of exploration and sharing in the fascinating world of artificial intelligence.
 
