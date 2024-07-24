@@ -1,7 +1,7 @@
 ---
 title: GitHub Pages와 Jekyll로 만드는 Github 블로그의 원리의 이해
 date: 2024-07-24 12:00:00 +0900
-categories: [blogging, tutorial]
+categories: [Blogging, Tutorial]
 tags: [github-pages, jekyll, ruby, chirpy-theme, 정적사이트, 웹개발, 무료블로그만들기]
 ---
 
