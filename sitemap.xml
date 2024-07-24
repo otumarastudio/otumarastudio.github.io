@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://otumarastudio.github.io/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/categories/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/tags/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/archives/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/about/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/posts/Jekyll-chirpy-theme-%EC%A0%81%EC%9A%A9-%EC%9B%90%EB%A6%AC/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/posts/LlamaIndex-RAG-%EA%B5%AC%ED%98%84%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B0%95%EB%A0%A5%ED%95%9C-%EB%8F%84%EA%B5%AC/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/posts/Welcome-to-my-tech-blog/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/tags/ai/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/tags/ai%EB%AC%B8%EC%84%9C%EB%B6%84%EC%84%9D/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/tags/chirpy-theme/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/tags/github-pages/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/tags/githubblog/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/tags/gpt%ED%99%9C%EC%9A%A9/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/tags/jekyll/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/tags/langchain/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/tags/llama-index/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/tags/llm/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/categories/ai/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/categories/llm/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/categories/blogging/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/categories/tutorial/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/tags/llm%ED%99%9C%EC%9A%A9/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/tags/nlp/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/tags/rag%EC%84%A4%EA%B3%84/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/tags/ruby/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/tags/welcome/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/tags/%EB%AC%B4%EB%A3%8C%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A7%8C%EB%93%A4%EA%B8%B0/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/tags/%EC%9B%B9%EA%B0%9C%EB%B0%9C/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://otumarastudio.github.io/tags/%EC%A0%95%EC%A0%81%EC%82%AC%EC%9D%B4%ED%8A%B8/</loc>
+  <lastmod>2024-07-24T07:11:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
